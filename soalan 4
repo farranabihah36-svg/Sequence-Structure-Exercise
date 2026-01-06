@@ -1,0 +1,9 @@
+grade = int(input("Enter your grade:"))
+if grade>=80 :
+    print("Grade A")
+elif 60-79 :
+    print("Grade B")
+elif 50-59 :
+    print("Grade C")
+else :
+    print("Fail")
